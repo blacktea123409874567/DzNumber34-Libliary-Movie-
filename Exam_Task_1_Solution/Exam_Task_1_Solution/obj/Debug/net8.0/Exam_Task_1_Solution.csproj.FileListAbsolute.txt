@@ -1,0 +1,18 @@
+C:\Users\Folse\source\repos\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Folse\source\repos\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.AssemblyInfoInputs.cache
+C:\Users\Folse\source\repos\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.AssemblyInfo.cs
+C:\Users\Folse\source\repos\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.csproj.CoreCompileInputs.cache
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\bin\Debug\net8.0\Exam_Task_1_Solution.exe
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\bin\Debug\net8.0\Exam_Task_1_Solution.deps.json
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\bin\Debug\net8.0\Exam_Task_1_Solution.runtimeconfig.json
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\bin\Debug\net8.0\Exam_Task_1_Solution.dll
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\bin\Debug\net8.0\Exam_Task_1_Solution.pdb
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.AssemblyInfoInputs.cache
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.AssemblyInfo.cs
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.csproj.CoreCompileInputs.cache
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.dll
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\refint\Exam_Task_1_Solution.dll
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.pdb
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\Exam_Task_1_Solution.genruntimeconfig.cache
+\\Win-or4mq9jmhnk\студенты\! УЧЕБНЫЕ ГРУППЫ\П42\Exam_Task_1_Solution\Exam_Task_1_Solution\obj\Debug\net8.0\ref\Exam_Task_1_Solution.dll
